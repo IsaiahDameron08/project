@@ -6,4 +6,5 @@
 - Watching Shows 
 - Playing Videogames
 
-[Home Page](README.md)
+[Next](shows.md) / [Home](README.md)
+
