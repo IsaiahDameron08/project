@@ -10,4 +10,5 @@ After *years* of pressure Isaiah would use his free time in college to catch up 
 A fun fact is that he has watched over 21 days worth of shows!
 
 
-[Home Page](README.md)
+[Next](games.md) / [Home](README.md)
+
