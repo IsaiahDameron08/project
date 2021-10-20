@@ -1,5 +1,7 @@
 # All About Isaiah
+ 
  This is a website dedicated to **ONLY FACTS** About Isaiah Dameron 
+ nothing more nothing less
  
  **Contents**
  1. [Early Life](Earlylife.md)
