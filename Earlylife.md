@@ -6,4 +6,4 @@ Isaiah was born in 2002 in Columbia, Mo and spent the majority of his life there
 `print('Hello World!!!')`
 
 
-[Home Page](README.md)
+[Next](hobbies.md) [Home Page](README.md)
